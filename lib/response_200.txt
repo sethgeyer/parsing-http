@@ -19,3 +19,7 @@ Content-Encoding: gzip
   <!-- Every time you consider testing a private method, your code is telling you that you haven't allocated responsibilities well.  Are you listening to it? -->
 </body>
 </html>
+
+
+
+request => response, header => {}, body => "DOCTYPE..."
